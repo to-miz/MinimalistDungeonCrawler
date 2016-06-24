@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalistDungeonCrawler", "MinimalistDungeonCrawler\MinimalistDungeonCrawler\MinimalistDungeonCrawler.csproj", "{951F0510-CA56-4C9B-9980-C8401002BE89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalistDungeonCrawlerContent", "MinimalistDungeonCrawler\MinimalistDungeonCrawlerContent\MinimalistDungeonCrawlerContent.contentproj", "{3A2ABB02-A552-4DB7-89DC-9B7B09D94F8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{951F0510-CA56-4C9B-9980-C8401002BE89}.Debug|x86.ActiveCfg = Debug|x86
+		{951F0510-CA56-4C9B-9980-C8401002BE89}.Debug|x86.Build.0 = Debug|x86
+		{951F0510-CA56-4C9B-9980-C8401002BE89}.Release|x86.ActiveCfg = Release|x86
+		{951F0510-CA56-4C9B-9980-C8401002BE89}.Release|x86.Build.0 = Release|x86
+		{3A2ABB02-A552-4DB7-89DC-9B7B09D94F8F}.Debug|x86.ActiveCfg = Debug|x86
+		{3A2ABB02-A552-4DB7-89DC-9B7B09D94F8F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
